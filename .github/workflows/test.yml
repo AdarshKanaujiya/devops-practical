@@ -15,4 +15,7 @@ jobs:
     - name: Run Test
       run: python test.py
 
+    - name: Success message
+      run: echo "succesfully tested"
+
     
